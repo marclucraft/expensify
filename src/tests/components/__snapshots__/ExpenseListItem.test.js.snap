@@ -10,7 +10,7 @@ exports[`should render ExpenseListItem with an expense 1`] = `
     </h3>
   </[object Object]>
   <p>
-    109500
+    £1,095.00
     -
     28th December 1969
   </p>
